@@ -1,10 +1,6 @@
 import axios from 'axios'
 import app from '../main'
 
-let smartHost = 's://yg.ismartwork.cn'
-let smartWorkBaseUrl = `http${smartHost}/webapp/restful`
-let smartHeadUrl = `${smartWorkBaseUrl}/userimage/head/`
-
 // let host = '://localhost'
 // let baseURL = 'http' + host + ':5000/work'
 
@@ -48,7 +44,5 @@ axios.interceptors.response.use((res) => {
 export default {
   getHost: host,
   getAxios: axios,
-  getBaseUrl: baseURL,
-  getSmartWorkBaseUrl: smartWorkBaseUrl,
-  getSmartHeadUrl: smartHeadUrl
+  getBaseUrl: baseURL
 }
