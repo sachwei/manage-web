@@ -1,6 +1,6 @@
 /**
  * 缓存工具类
- * @author sachuangwei@ygsoft.com
+ * @author 490232365@qq.com
  * @version 2018-05-02
  */
 

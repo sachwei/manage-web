@@ -1,6 +1,6 @@
 /**
  * 初始化vue全局插件
- * @author sachuangwei@ygsoft.com
+ * @author 490232365@qq.com
  * @version 2018-04-29
  */
 

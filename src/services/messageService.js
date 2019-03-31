@@ -83,7 +83,7 @@ MessageService.prototype.sendCiciUrl = (toEmail, url) => {
 
 /**
  * 发送邮件
- * @demo messageService.sendMail('sachuangwei@ygsoft.com', 'test', 'hello');
+ * @demo messageService.sendMail('490232365@qq.com', 'test', 'hello');
  * @param {*接收人邮箱} toEmail
  * @param {*主题} subject
  * @param {*内容(html格式)} content

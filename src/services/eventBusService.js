@@ -1,6 +1,6 @@
 /**
  * 用于组件间简单的通信定义的事件总线
- * @author sachuangwei@ygsoft.com
+ * @author 490232365@qq.com
  * @version 2018-04-29
  */
 import Vue from 'vue'

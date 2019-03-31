@@ -7,7 +7,6 @@
       </product-tab>
       <div class="product-view">
         <img class="page-wrapper" src="../../../assets/cwjy/phone.png" alt=""/>
-        <img usemap="#planetmap" class="product-page" src="../../../assets/cwjy/01.png" alt="">
         <map name="planetmap" id="planetmap">
           <area shape="rect" coords="0,0,99,99" alt="sum" nohref="nohref">
         </map>

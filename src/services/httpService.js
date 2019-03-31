@@ -1,19 +1,19 @@
 import axios from 'axios'
 import app from '../main'
 
-let smartHost = 's://yg.ismartwork.cn'
+let smartHost = 's://***.cn'
 let smartWorkBaseUrl = `http${smartHost}/webapp/restful`
 let smartHeadUrl = `${smartWorkBaseUrl}/userimage/head/`
 
-// let host = '://localhost'
-// let baseURL = 'http' + host + ':5000/work'
+let host = '://localhost'
+let baseURL = 'http' + host + ':5000/work'
 
 // let host = '://10.51.101.79'
 // let baseURL = 'http' + host + ':5000/work'
 
 // 正式部署地址
-let host = '118.24.112.95:8080/work'
-let baseURL = 'http' + host
+// let host = '118.24.112.95:8080/work'
+// let baseURL = 'http' + host
 
 axios.defaults.timeout = 1000 * 10
 axios.defaults.headers.post['Content-Type'] = 'application/x-www-form-urlencoded;charset=UTF-8'

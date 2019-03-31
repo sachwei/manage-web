@@ -1,6 +1,6 @@
 /*
  * 通用方法
- * @Author: sachuangwei@ygsoft.com
+ * @Author: 490232365@qq.com
  * @Date: 2018-05-23 17:32:30
  */
 

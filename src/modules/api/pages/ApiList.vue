@@ -74,7 +74,7 @@ export default {
       }
     },
     getTopNode (resolve) {
-      this.$http.get('https://im.ygsoft.com/api/api.json').then(res => {
+      this.$http.get('https://***.com/api/api.json').then(res => {
         this.apiJson = res.data
         this.initApiList()
         resolve([{
